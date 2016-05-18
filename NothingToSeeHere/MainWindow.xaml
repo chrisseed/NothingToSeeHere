@@ -6,6 +6,6 @@
         xmlns:local="clr-namespace:NothingToSeeHere"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Hello world!"/>
+    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Goodbye cruel world..."/>
 </Window>
 
